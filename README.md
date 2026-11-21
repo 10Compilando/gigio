@@ -277,4 +277,87 @@ O objetivo é observar como regras individuais e interações podem produzir com
 
 ---
 
-## 🎓
+## 🎓 Objetivo Educacional
+
+O Aquário do Gigio foi desenvolvido como recurso didático para facilitar a compreensão de conceitos relacionados à programação, inteligência artificial, agentes autônomos e desenvolvimento de jogos.
+
+A simulação permite explorar perguntas como:
+
+- Como um NPC identifica o que está acontecendo ao seu redor?
+- Quais informações um agente precisa memorizar?
+- Como um personagem de jogo decide o que fazer?
+- O que acontece quando duas regras comportamentais entram em conflito?
+- Como regras simples podem produzir comportamentos complexos?
+- Por que um agente pode mudar seus planos quando o ambiente se transforma?
+
+O aquário transforma essas perguntas em experimentos que podem ser observados e discutidos.
+
+---
+
+## 🛠️ Tecnologias
+
+O projeto utiliza tecnologias web para construir uma simulação interativa:
+
+- PHP
+- JavaScript
+- HTML5
+- CSS
+- HTML5 Canvas
+
+A simulação é executada no navegador e requer um servidor web com suporte a PHP.
+
+---
+
+## 🚀 Como Executar
+
+### Requisitos
+
+- Servidor web com suporte a PHP.
+- Navegador moderno.
+- Arquivos do projeto.
+
+### Instalação
+
+1. Clone ou baixe este repositório.
+2. Coloque os arquivos do projeto em um diretório de servidor web com suporte a PHP.
+3. Mantenha os arquivos do projeto no mesmo diretório.
+4. Abra o projeto por meio do servidor local ou hospedado.
+5. Acesse o arquivo `index.php` pelo navegador.
+
+Exemplo de endereço local:
+
+`http://localhost/gigio/`
+
+---
+
+## 🌐 Projeto Bilíngue
+
+O Aquário do Gigio foi desenvolvido para oferecer suporte aos idiomas português e inglês.
+
+O objetivo é tornar a simulação acessível a estudantes, educadores e desenvolvedores de diferentes contextos linguísticos.
+
+---
+
+## 📚 Aprender Observando
+
+O projeto segue um princípio educacional simples:
+
+**Não apenas explique como um NPC funciona. Permita que as pessoas observem seu funcionamento.**
+
+Ao inspecionar agentes, modificar condições e observar suas respostas, os estudantes conseguem relacionar a lógica da programação aos comportamentos visíveis.
+
+---
+
+## 👨‍💻 Autor
+
+**10Compilando**
+
+Tecnologia educacional, programação, inteligência artificial e pensamento computacional.
+
+GitHub: https://github.com/10Compilando
+
+---
+
+*Gigio's Aquarium — Learning how intelligent agents behave, one fish at a time.*
+
+*Aquário do Gigio — Aprendendo como agentes inteligentes se comportam, um peixe de cada vez.*
